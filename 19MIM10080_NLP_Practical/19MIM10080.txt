@@ -1,0 +1,11 @@
+19MIM10080
+
+
+1. Machine Translation D - attached jupyter file
+2. Information Retrieval- attached jupyter file
+3. Text Simplification- attached jupyter file
+4. Sentiment Analysis D- attached jupyter file
+5. Text Summarization- attached jupyter file
+6. Spam Filter D- attached jupyter file
+7. Speech Recognition- attached jupyter file
+8. Question Answering D- attached jupyter file
